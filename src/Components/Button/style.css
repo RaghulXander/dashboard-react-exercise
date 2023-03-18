@@ -1,0 +1,11 @@
+button {
+  outline: none;
+  border: 1px solid transparent;
+  cursor: pointer;
+  text-align: center;
+}
+
+button:hover {
+  background: #ffaa22;
+  transition: all 0.2s;
+}

@@ -1,0 +1,20 @@
+input{
+  /* width:100% !important;
+  box-shadow:0 0 8px 0 rgb(254, 254, 254);
+  border: 1px solid transparent;
+  outline:none;
+  box-sizing:border-box;
+  transition:.3s;
+  /* margin: 0 !important; */
+  /* height: 100% !important; */
+  outline:none;
+  border: transparent;
+  display: flex;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active{
+    -webkit-box-shadow: 0 0 0 30px white inset !important;
+}
